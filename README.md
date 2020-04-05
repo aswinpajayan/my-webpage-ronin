@@ -7,4 +7,4 @@ also a huge shout out to the guys at [font awesome](https://fontawesome.com/), [
 
 
 ## web page thumb
-![Page](page.png)
+![Page](page.jpg)
